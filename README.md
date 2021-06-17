@@ -7,7 +7,7 @@ Secara garis besar akan dijelaskan mengenai
 - Konsep penerapan Algoritma Genetika untuk permasalahan klastering
 - Implementasi algoritma pada contoh soal yang ada
 
-File code dapat di akses pada ![link berikut](https://github.com/RinRoya/Algoritma-Genetika-Untuk-Optimasi-Fungsi)
+File code dapat di akses pada ![link berikut](https://github.com/RinRoya/Algoritma-Genetika-Untuk-Klastering/blob/main/ClusteringGeneticAlgorithm.ipynb)
 
 ## Cuplikan code 
 **1. Algoritma**
